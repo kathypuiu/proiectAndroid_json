@@ -1,0 +1,61 @@
+{
+  "Intrebari:": {
+    "Intrebare1:": {
+      "Text": "Cate zile sunt intre-o saptamana?",
+      "Raspuns1:": {
+        "text": "7",
+        "corect": "true"
+      },
+      "Raspuns2:": {
+        "text": "3",
+        "correct": "false"
+      },
+      "Raspuns3:": {
+        "text": "5",
+        "correct": "false"
+      },
+      "Raspuns4:": {
+        "text": "6",
+        "correct": "false"
+      }
+    },
+    "Intrebare2:": {
+      "Text": "Cares este capitala Romaniei?",
+      "Raspuns1:": {
+        "text": "Viena",
+        "corect": "false"
+      },
+      "Raspuns2:": {
+        "text": "Paris",
+        "correct": "false"
+      },
+      "Raspuns3:": {
+        "text": "Bucuresti",
+        "correct": "true"
+      },
+      "Raspuns4:": {
+        "text": "Nu exista!",
+        "correct": "fals"
+      }
+    },
+    "Intrebare3:": {
+      "Text": "In ce an a fost lansat saltelitu Sputnik?",
+      "Raspuns1:": {
+        "text": "1999",
+        "corect": "false"
+      },
+      "Raspuns2:": {
+        "text": "1957",
+        "correct": "true"
+      },
+      "Raspuns3:": {
+        "text": "1969",
+        "correct": "false"
+      },
+      "Raspuns4:": {
+        "text": "1900",
+        "correct": "fals"
+      }
+    }
+  }
+}
