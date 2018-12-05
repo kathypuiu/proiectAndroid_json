@@ -1,12 +1,11 @@
 {
-  "Intrebari:": {
-    "Intrebare1:": {
-      "Text": "Cate zile sunt intre-o saptamana?",
+	"Intrebare:": {
+      "Text": "Cate zile sunt intr-o saptamana?",
       "Raspuns1:": {
         "text": "7",
         "corect": "true"
       },
-      "Raspuns2:": {
+      "Raspuns2": {
         "text": "3",
         "correct": "false"
       },
@@ -19,8 +18,8 @@
         "correct": "false"
       }
     },
-    "Intrebare2:": {
-      "Text": "Cares este capitala Romaniei?",
+    "Intrebare:": {
+      "Text": "Care este capitala Romaniei?",
       "Raspuns1:": {
         "text": "Viena",
         "corect": "false"
@@ -38,8 +37,8 @@
         "correct": "fals"
       }
     },
-    "Intrebare3:": {
-      "Text": "In ce an a fost lansat saltelitu Sputnik?",
+    "Intrebare:": {
+      "Text": "In ce an a fost lansat satelitul Sputnik?",
       "Raspuns1:": {
         "text": "1999",
         "corect": "false"
@@ -57,5 +56,4 @@
         "correct": "fals"
       }
     }
-  }
 }
